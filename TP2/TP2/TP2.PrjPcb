@@ -28,7 +28,7 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
-OutputPath=Project Outputs for TP2
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -138,13 +138,22 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IVGCEXML
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Free Documents\BOM\Bill of Materials-TP2.xlsx
+[Document7]
+DocumentPath=PcbLib1.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for TP2\BOM\Bill of Materials-TP2.xlsx
-DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IIOATBXI
 
 [Configuration1]
 Name=Default Configuration
@@ -157,7 +166,7 @@ GenerateBOM=1
 OutputJobsCount=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for TP2
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -931,7 +940,7 @@ Type10=1
 Type11=2
 Type12=2
 Type13=2
-Type14=1
+Type14=0
 Type15=1
 Type16=1
 Type17=1
